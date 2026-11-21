@@ -197,20 +197,6 @@ php artisan test
 Pengujian memakai SQLite in-memory (lihat `phpunit.xml`) sehingga tidak menyentuh database MySQL Anda.
 Pastikan ekstensi `pdo_sqlite` aktif di PHP Anda.
 
-## Mengunggah ke GitHub
-
-```bash
-git init
-git add .
-git commit -m "UAS PBWL: Sistem Informasi Jadwal Kebersihan Tuntungan 2"
-git branch -M main
-git remote add origin https://github.com/<username>/<nama-repository>.git
-git push -u origin main
-```
-
-Folder `vendor/` dan berkas `.env` sengaja tidak ikut diunggah (diabaikan oleh `.gitignore`);
-siapa pun dapat memasangnya kembali dengan `composer install` dan langkah instalasi di atas.
-Tempelkan URL repository pada kolom yang disediakan di e-learning.
 
 ## Lisensi
 
