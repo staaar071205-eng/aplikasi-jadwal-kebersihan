@@ -1,5 +1,6 @@
 # Sistem Informasi Jadwal Kebersihan Tuntungan 2
-Riski Amanda NIM : 0702243150
+UAS Pemrograman Berbasis Web Lanjutan
+Riski Amanda NIM : 0702243150, Sistem Informasi 1
 
 **UAS Pemrograman Berbasis Web Lanjutan**  
 UIN Sumatera Utara Medan, Fakultas Sains dan Teknologi
