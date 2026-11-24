@@ -1,6 +1,7 @@
 # Sistem Informasi Jadwal Kebersihan Tuntungan 2
-
-**UAS Pemrograman Berbasis Web Lanjutan** — UIN Sumatera Utara Medan, Fakultas Sains dan Teknologi
+Riski Amanda NIM : 0702243150
+**UAS Pemrograman Berbasis Web Lanjutan**  
+UIN Sumatera Utara Medan, Fakultas Sains dan Teknologi
 Dosen: Suendri, M.Kom · Semester Ganjil 2026/2027
 
 Aplikasi web berbasis **Laravel 13.x**, **Bootstrap 5**, dan **MySQL/MariaDB** untuk mengelola jadwal kebersihan lingkungan
